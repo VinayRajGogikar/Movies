@@ -1,4 +1,4 @@
-#**Movie Dataset Analysis**
+**Movie Dataset Analysis**
 In this notebook, I explore a movie dataset to uncover factors that contribute to a movie's success. I focus on key elements like ratings, budgets, and gross earnings to understand what drives a movie's performance.
 
 **Some of the key questions I address in this analysis include:**
